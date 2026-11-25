@@ -1,0 +1,3 @@
+item,enterprise,period,kind,amount,budget_state
+R1,E1,2025Q3,materials,260000,committed
+R2,E1,2025Q4,labour,320000,planned

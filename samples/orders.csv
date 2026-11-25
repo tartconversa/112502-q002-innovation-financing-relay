@@ -1,0 +1,3 @@
+order,enterprise,customer,contract_value,delivery_date,acceptance_due,state
+O1,E1,C1,1800000,2025-09-20,2025-10-05,signed
+O2,E1,C2,600000,2025-10-10,2025-10-25,letter

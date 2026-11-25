@@ -1,0 +1,4 @@
+event,order,kind,due_date,amount,confirmed
+C1,O1,supplier_prepay,2025-08-15,420000,yes
+C2,O1,customer_acceptance,2025-10-05,900000,no
+C3,O1,final_receipt,2025-11-02,900000,no

@@ -1,0 +1,3 @@
+offer,bank,product,max_amount,max_months,security,eligible_proof
+F1,BankA,order-bridge,700000,6,receivable,acceptance
+F2,BankB,innovation-credit,900000,18,guarantee,rd-record
